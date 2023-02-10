@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  color: white;
+  height: 100%;
+  width: 100%;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-body {
+  color: antiquewhite;
+  background-color: rgb(46, 35, 35);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-footer {
+  color: antiquewhite;
+  background-color: gray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+
+.task button{
+  width: auto;
+  height: auto;
+  margin-left: 20px;
+  text-align: center;
+  display: flex;
+}
+
+.task{
+  width: 500px;
+  height: 50px;
+  display: flex;
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
