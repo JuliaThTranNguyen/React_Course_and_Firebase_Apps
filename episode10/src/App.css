@@ -1,0 +1,40 @@
+.App1 {
+  text-align: center;
+  background-color: lightseagreen;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.span {
+  content: "\2193";
+} 
+
+.App2 {
+  text-align: center;
+  background-color: lightskyblue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App3 {
+  text-align: center;
+  background-color: lightslategray;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+

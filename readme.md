@@ -14,3 +14,6 @@ Visit this link [here](https://www.youtube.com/watch?v=f55qeKGgB_M&t=17s)
 #### Course name: [React Course For Beginners - Learn React in 8 Hours](https://www.youtube.com/watch?v=f55qeKGgB_M&t=17s)
 #### Author of this course: [PedroTech](https://github.com/machadop1407)
 #### Practicipants: [Julia](https://github.com/)
+
+------
+## Note: The episodes and examples are meant for documentation purposes only. Please pay attention to the final projects.
