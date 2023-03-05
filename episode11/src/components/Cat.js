@@ -9,7 +9,8 @@ export const Cat = () => {
     return (
         <div>
             <button onClick={refectchDataFunction}>refetch data</button>
-            <h1>{catData?.fact}</h1>
+            {/* // accessing the fact property of the catData object. THe (?.)  will check if the catData exist before accessing its "fact" property*/}
+            <h1>{catData?.fact}</h1> 
         </div>
     );
 };
